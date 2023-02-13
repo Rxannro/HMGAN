@@ -2,7 +2,7 @@
 
 This is the official repository for our paper: HMGAN: A Hierarchical Multi-Modal Generative Adversarial Network Model for Wearable Human Activity Recognition
 
-![HMGAN_framework](https://github.com/Rxannro/HMGAN/blob/main/HMGAN_framework.pdf)
+![]()
 
 ## Dependencies
 
